@@ -1,0 +1,106 @@
+1/13
+crRNA sequence:TTCCAATGAAGTCAATCTAC
+2/13
+crRNA sequence:CTGGATTCAAAAACAATTCA
+40: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,234.
+Upstream homology arm:Been cut off
+Length:12
+Downstream homology arm:AGAGGAGCTGGGCTGGATCTCTTATCCATCACATGGG
+Length:37
+Doench Score: 0.364
+0.034481481481481474: MIT score
+0.5625: CFD score
+0.037177590857142846: CCTop score
+0.08471243: DeepHF score3/13
+crRNA sequence:TGGATTCAAAAACAATTCAA
+39: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,235.
+Upstream homology arm:Been cut off
+Length:12
+Downstream homology arm:GGAGAGCTGGGCTGGATCTCTTATCCATCACATGGG
+Length:36
+Doench Score: 0.505
+0.033031609195402295: MIT score
+0.861244019139177: CFD score
+0.025115999999999996: CCTop score
+0.19998626: DeepHF score4/13
+crRNA sequence:GGATTCAAAAACAATTCAAG
+38: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,236.
+Upstream homology arm:Been cut off
+Length:12
+Downstream homology arm:GGAAGCTGGGCTGGATCTCTTATCCATCACATGGG
+Length:35
+Doench Score: 0.636
+0.046234551282051284: MIT score
+0.6060606060609697: CFD score
+0.048007394742857125: CCTop score
+0.37343836: DeepHF score5/13
+crRNA sequence:AAAAACAATTCAAGGGGAGC
+32: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,242.
+Upstream homology arm:Been cut off
+Length:12
+Downstream homology arm:TGCGCTGGATCTCTTATCCATCACATGGG
+Length:29
+Doench Score: 0.372
+0.04793181818181819: MIT score
+0.7: CFD score
+0.03852715940571427: CCTop score
+0.060459614: DeepHF score6/13
+crRNA sequence:AAAACAATTCAAGGGGAGCT
+31: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,243.
+Upstream homology arm:TCCGCAGCCTTCCAATGAAGTCAATCTACTGGATTCAAAAACAATTCAAGGGGAGCT
+Length:57
+Downstream homology arm:GGACTGGATCTCTTATCCATCACATGGG
+Length:28
+Doench Score: 0.562
+0.03099576271186441: MIT score
+0.61599999999972: CFD score
+0.025251428571428567: CCTop score
+0.072164446: DeepHF score7/13
+crRNA sequence:CAATTCAAGGGGAGCTGGGC
+27: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,247.
+Upstream homology arm:CAGCCTTCCAATGAAGTCAATCTACTGGATTCAAAAACAATTCAAGGGGAGCTGGGC
+Length:57
+Downstream homology arm:TGCATCTCTTATCCATCACATGGG
+Length:24
+Doench Score: 0.374
+0.0329548090909091: MIT score
+0.676691729323827: CFD score
+0.022328571428571427: CCTop score
+0.11896898: DeepHF score8/13
+crRNA sequence:TGGATCTCTTATCCATCACA
+7: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,267.
+Upstream homology arm:TCTACTGGATTCAAAAACAATTCAAGGGGAGCTGGGCTGGATCTCTTATCCATCACA
+Length:57
+Downstream homology arm:TGCG
+Length:4
+Doench Score: 0.488
+0.015639455782312926: MIT score
+0.909090909091: CFD score
+0.025115999999999996: CCTop score
+0.2425155: DeepHF score9/13
+crRNA sequence:GGATCTCTTATCCATCACAT
+6: Distance from target site 
+This guide will target a sequence in the gene EPHA3 in the Homo sapiens genome. The Cas9 RNP will bind to the sense strand (-) of the gene. It will create a double-stranded break at location 89,127,268.
+Upstream homology arm:CTACTGGATTCAAAAACAATTCAAGGGGAGCTGGGCTGGATCTCTTATCCATCACAT
+Length:57
+Downstream homology arm:GGA
+Length:3
+Doench Score: 0.594
+0.014443405384615382: MIT score
+0.4897959183678535: CFD score
+0.06686601654857141: CCTop score
+0.34409732: DeepHF score10/13
+crRNA sequence:TTGACTTCATTGGAAGGCTG
+11/13
+crRNA sequence:AGTAGATTGACTTCATTGGA
+12/13
+crRNA sequence:ATCCAGTAGATTGACTTCAT
+13/13
+crRNA sequence:CCCATGTGA

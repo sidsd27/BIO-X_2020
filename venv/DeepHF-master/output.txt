@@ -1,0 +1,44 @@
+Constructing sencondary structure features.
+N-None,N2-1
+N-None,N2-1
+Constructing nucleotide features.
+N-None,N2-1
+N-None,N2-1
+   index Strand  Cut_Pos  PAM              gRNA_Seq  Efficiency
+0      0      +       17  CGG  ACGTGTGACTACCGGCGGCG     0.28913
+Constructing sencondary structure features.
+N-None,N2-1
+N-None,N2-1
+Constructing nucleotide features.
+N-None,N2-1
+N-None,N2-1
+   index Strand  Cut_Pos  PAM              gRNA_Seq  Efficiency
+0      0      +       17  CGG  ACGTGTGACTACCGGCGGCG     0.62073
+Constructing sencondary structure features.
+N-None,N2-1
+N-None,N2-1
+Constructing nucleotide features.
+N-None,N2-1
+N-None,N2-1
+   index Strand  Cut_Pos  PAM              gRNA_Seq  Efficiency
+0      0      +       17  CGG  ACGTGTGACTACCGGCGGCG     0.54135
+Constructing sencondary structure features.
+N-None,N2-441
+N-None,N2-441
+Constructing nucleotide features.
+N-None,N2-441
+N-None,N2-441
+     index Strand  Cut_Pos  PAM              gRNA_Seq  Efficiency
+438    438      -     2268  CGG  GTGGGCTGAGGCGGCCACGG     0.80088
+418    418      -     2168  CGG  GGGACGGGACGCGGCGGTGG     0.75014
+311    311      -      950  GGG  CTCGAGGAGAGCGTTCCTGG     0.73312
+298    298      -      882  GGG  GTGACTGGAGGTACTCGGGT     0.73055
+71      71      +      757  GGG  CCGGGAGTTCGTGGACTCCG     0.71973
+..     ...    ...      ...  ...                   ...         ...
+166    166      +     2143  TGG  TTTCTCCCTGCAGCCTTTTC     0.00000
+167    167      +     2188  TGG  TCAAAGATGCGTTTGCCTCC     0.00000
+202    202      -      306  AGG  TTATTTACACACTGATGAGG     0.00000
+163    163      +     2057  TGG  AATAAAACTATTTATTGTGC     0.00000
+351    351      -     1446  CGG  CTTGCACTCCTGGCGCATCT     0.00000
+
+[441 rows x 6 columns]
